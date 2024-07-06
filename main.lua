@@ -3117,5 +3117,3 @@ while true do
     changeColor()
     wait(1)
 end
-
-discord
